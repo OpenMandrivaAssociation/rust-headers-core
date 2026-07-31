@@ -5,8 +5,8 @@
 %global crate headers-core
 
 Name:           rust-%{crate}
-Version:        0.1.1
-Release:        3%{?dist}
+Version:        0.3.0
+Release:        1%{?dist}
 Summary:        Typed HTTP headers core trait
 
 # Upstream license specification: MIT
